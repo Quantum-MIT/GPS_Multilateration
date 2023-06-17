@@ -1,6 +1,14 @@
 # Multilateration
+I made this project as a part of my entrance test for
+SWARM Robotics, IITKgp. It uses basic form of a
+particle filter, a standard filtering technique to
+improve the precision of an average GPS. There is a
+simulation of the predicted trajectory and the actual
+trajectory on running the .py file.
 
-As discussed in the task ps, you get signals from multiple stations.
+
+
+You get signals from multiple stations.
 From that you get distance of the bots from multiple stations.
 Using that you must localise the bot.
 
